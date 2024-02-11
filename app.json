@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-semaforo",
+    "slug": "app-semaforo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-semaforo"
+}
